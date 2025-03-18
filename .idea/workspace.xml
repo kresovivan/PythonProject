@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e91dd10-759b-4f17-a692-d2e493edac44" name="Changes" comment="test python1">
-      <change afterPath="$PROJECT_DIR$/window2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +60,7 @@
   "keyToString": {
     "Python.DimmerSwitch.executor": "Run",
     "Python.HigherOrLowerProcedural.executor": "Run",
+    "Python.battary.executor": "Run",
     "Python.battleship.executor": "Run",
     "Python.dice1.executor": "Run",
     "Python.dice2.executor": "Run",
@@ -105,14 +105,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1739471318424</updated>
-    </task>
-    <task id="LOCAL-00028" summary="test python1">
-      <option name="closed" value="true" />
-      <created>1739742245949</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1739742245949</updated>
     </task>
     <task id="LOCAL-00029" summary="test python1">
       <option name="closed" value="true" />
@@ -498,7 +490,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742241005750</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="test python1">
+      <option name="closed" value="true" />
+      <created>1742334611499</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1742334611499</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
