@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e91dd10-759b-4f17-a692-d2e493edac44" name="Changes" comment="test python1">
-      <change afterPath="$PROJECT_DIR$/swap1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/guess7.py" beforeDir="false" afterPath="$PROJECT_DIR$/guess7.py" afterDir="false" />
-    </list>
+    <list default="true" id="2e91dd10-759b-4f17-a692-d2e493edac44" name="Changes" comment="test python1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,22 +149,6 @@
       <workItem from="1750621379104" duration="30000" />
       <workItem from="1750621929036" duration="62000" />
       <workItem from="1750621996614" duration="32000" />
-    </task>
-    <task id="LOCAL-00102" summary="test python1">
-      <option name="closed" value="true" />
-      <created>1743633431275</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1743633431275</updated>
-    </task>
-    <task id="LOCAL-00103" summary="test python1">
-      <option name="closed" value="true" />
-      <created>1747078491747</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1747078491748</updated>
     </task>
     <task id="LOCAL-00104" summary="test python1">
       <option name="closed" value="true" />
@@ -545,7 +526,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750852188909</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="test python1">
+      <option name="closed" value="true" />
+      <created>1750855131770</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1750855131770</updated>
+    </task>
+    <task id="LOCAL-00152" summary="test python1">
+      <option name="closed" value="true" />
+      <created>1750855419393</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1750855419393</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
