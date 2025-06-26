@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2e91dd10-759b-4f17-a692-d2e493edac44" name="Changes" comment="test python1">
-      <change afterPath="$PROJECT_DIR$/hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +107,7 @@
     "Python.monster8.executor": "Run",
     "Python.monsterlab.executor": "Run",
     "Python.my_module1.executor": "Run",
+    "Python.name.executor": "Run",
     "Python.palindrom.executor": "Run",
     "Python.python_words.executor": "Run",
     "Python.second.executor": "Run",
@@ -166,14 +167,6 @@
       <workItem from="1750621379104" duration="30000" />
       <workItem from="1750621929036" duration="62000" />
       <workItem from="1750621996614" duration="32000" />
-    </task>
-    <task id="LOCAL-00134" summary="test python1">
-      <option name="closed" value="true" />
-      <created>1748626955136</created>
-      <option name="number" value="00134" />
-      <option name="presentableId" value="LOCAL-00134" />
-      <option name="project" value="LOCAL" />
-      <updated>1748626955136</updated>
     </task>
     <task id="LOCAL-00135" summary="test python1">
       <option name="closed" value="true" />
@@ -559,7 +552,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750959873515</updated>
     </task>
-    <option name="localTasksCounter" value="183" />
+    <task id="LOCAL-00183" summary="test python1">
+      <option name="closed" value="true" />
+      <created>1750960406169</created>
+      <option name="number" value="00183" />
+      <option name="presentableId" value="LOCAL-00183" />
+      <option name="project" value="LOCAL" />
+      <updated>1750960406169</updated>
+    </task>
+    <option name="localTasksCounter" value="184" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
