@@ -105,6 +105,7 @@
     "Python.lotto4.executor": "Run",
     "Python.magicians.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.many_users.executor": "Run",
     "Python.mathe3.executor": "Run",
     "Python.mathe4.executor": "Run",
     "Python.million1.executor": "Run",
@@ -120,6 +121,7 @@
     "Python.my_module1.executor": "Run",
     "Python.name.executor": "Run",
     "Python.palindrom.executor": "Run",
+    "Python.parrot.executor": "Run",
     "Python.pizza.executor": "Run",
     "Python.players.executor": "Run",
     "Python.python_words.executor": "Run",
@@ -184,38 +186,6 @@
       <workItem from="1750621379104" duration="30000" />
       <workItem from="1750621929036" duration="62000" />
       <workItem from="1750621996614" duration="32000" />
-    </task>
-    <task id="LOCAL-00215" summary="test python1">
-      <option name="closed" value="true" />
-      <created>1751123831213</created>
-      <option name="number" value="00215" />
-      <option name="presentableId" value="LOCAL-00215" />
-      <option name="project" value="LOCAL" />
-      <updated>1751123831213</updated>
-    </task>
-    <task id="LOCAL-00216" summary="test python1">
-      <option name="closed" value="true" />
-      <created>1751124781794</created>
-      <option name="number" value="00216" />
-      <option name="presentableId" value="LOCAL-00216" />
-      <option name="project" value="LOCAL" />
-      <updated>1751124781794</updated>
-    </task>
-    <task id="LOCAL-00217" summary="test python1">
-      <option name="closed" value="true" />
-      <created>1751126458046</created>
-      <option name="number" value="00217" />
-      <option name="presentableId" value="LOCAL-00217" />
-      <option name="project" value="LOCAL" />
-      <updated>1751126458046</updated>
-    </task>
-    <task id="LOCAL-00218" summary="test python1">
-      <option name="closed" value="true" />
-      <created>1751369098134</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1751369098134</updated>
     </task>
     <task id="LOCAL-00219" summary="test python1">
       <option name="closed" value="true" />
@@ -577,7 +547,39 @@
       <option name="project" value="LOCAL" />
       <updated>1751478091300</updated>
     </task>
-    <option name="localTasksCounter" value="264" />
+    <task id="LOCAL-00264" summary="test python1">
+      <option name="closed" value="true" />
+      <created>1751478682074</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1751478682074</updated>
+    </task>
+    <task id="LOCAL-00265" summary="test python1">
+      <option name="closed" value="true" />
+      <created>1751478735480</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1751478735480</updated>
+    </task>
+    <task id="LOCAL-00266" summary="test python1">
+      <option name="closed" value="true" />
+      <created>1751478918766</created>
+      <option name="number" value="00266" />
+      <option name="presentableId" value="LOCAL-00266" />
+      <option name="project" value="LOCAL" />
+      <updated>1751478918766</updated>
+    </task>
+    <task id="LOCAL-00267" summary="test python1">
+      <option name="closed" value="true" />
+      <created>1751479671782</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1751479671782</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
