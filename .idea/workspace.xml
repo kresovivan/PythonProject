@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e91dd10-759b-4f17-a692-d2e493edac44" name="Changes" comment="test python1">
-      <change afterPath="$PROJECT_DIR$/Introduction_to_python_chernyshev.py" afterDir="false" />
+    <list default="true" id="2e91dd10-759b-4f17-a692-d2e493edac44" name="Changes" comment="15.02.2026">
+      <change afterPath="$PROJECT_DIR$/main1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_main1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction_to_python_chernyshev.py" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction_to_python_chernyshev.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +66,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test_main1.py.executor": "Run",
+    "Python tests.pytest in test_main1.py.executor": "Run",
     "Python.Account.executor": "Run",
     "Python.DimmerSwitch.executor": "Run",
     "Python.HigherOrLowerProcedural.executor": "Run",
@@ -176,7 +182,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -188,31 +194,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kreso\PycharmProjects\PythonProject" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="monster5" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="PythonProject" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/monster5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -244,401 +225,418 @@
       <workItem from="1762883123787" duration="379000" />
       <workItem from="1762884514034" duration="752000" />
       <workItem from="1764008340687" duration="10873000" />
-      <workItem from="1768498689660" duration="6998000" />
+      <workItem from="1768498689660" duration="10860000" />
+      <workItem from="1768562034010" duration="2927000" />
+      <workItem from="1768564992233" duration="23451000" />
+      <workItem from="1768666752862" duration="239000" />
+      <workItem from="1768667003415" duration="14606000" />
+      <workItem from="1768741930427" duration="19310000" />
+      <workItem from="1768851763755" duration="6060000" />
+      <workItem from="1768906528496" duration="4000" />
+      <workItem from="1769889505972" duration="6242000" />
+      <workItem from="1769945532839" duration="2615000" />
+      <workItem from="1769974787075" duration="5123000" />
+      <workItem from="1770495352948" duration="18000" />
+      <workItem from="1770495943227" duration="207000" />
+      <workItem from="1771011930907" duration="1411000" />
+      <workItem from="1771067378219" duration="1505000" />
+      <workItem from="1771081953794" duration="3142000" />
+      <workItem from="1771093209907" duration="9544000" />
+      <workItem from="1771145206966" duration="21834000" />
     </task>
-    <task id="LOCAL-00287" summary="test python1">
+    <task id="LOCAL-00373" summary="18.01.2026">
       <option name="closed" value="true" />
-      <created>1751625871514</created>
-      <option name="number" value="00287" />
-      <option name="presentableId" value="LOCAL-00287" />
+      <created>1768754825164</created>
+      <option name="number" value="00373" />
+      <option name="presentableId" value="LOCAL-00373" />
       <option name="project" value="LOCAL" />
-      <updated>1751625871514</updated>
+      <updated>1768754825164</updated>
     </task>
-    <task id="LOCAL-00288" summary="test python1">
+    <task id="LOCAL-00374" summary="18.01.2026">
       <option name="closed" value="true" />
-      <created>1751625931314</created>
-      <option name="number" value="00288" />
-      <option name="presentableId" value="LOCAL-00288" />
+      <created>1768764604852</created>
+      <option name="number" value="00374" />
+      <option name="presentableId" value="LOCAL-00374" />
       <option name="project" value="LOCAL" />
-      <updated>1751625931314</updated>
+      <updated>1768764604852</updated>
     </task>
-    <task id="LOCAL-00289" summary="test python1">
+    <task id="LOCAL-00375" summary="18.01.2026">
       <option name="closed" value="true" />
-      <created>1751626287295</created>
-      <option name="number" value="00289" />
-      <option name="presentableId" value="LOCAL-00289" />
+      <created>1768765134496</created>
+      <option name="number" value="00375" />
+      <option name="presentableId" value="LOCAL-00375" />
       <option name="project" value="LOCAL" />
-      <updated>1751626287295</updated>
+      <updated>1768765134496</updated>
     </task>
-    <task id="LOCAL-00290" summary="test python1">
+    <task id="LOCAL-00376" summary="18.01.2026">
       <option name="closed" value="true" />
-      <created>1751626489736</created>
-      <option name="number" value="00290" />
-      <option name="presentableId" value="LOCAL-00290" />
+      <created>1768765200896</created>
+      <option name="number" value="00376" />
+      <option name="presentableId" value="LOCAL-00376" />
       <option name="project" value="LOCAL" />
-      <updated>1751626489736</updated>
+      <updated>1768765200896</updated>
     </task>
-    <task id="LOCAL-00291" summary="test python1">
+    <task id="LOCAL-00377" summary="18.01.2026">
       <option name="closed" value="true" />
-      <created>1751626852725</created>
-      <option name="number" value="00291" />
-      <option name="presentableId" value="LOCAL-00291" />
+      <created>1768766874930</created>
+      <option name="number" value="00377" />
+      <option name="presentableId" value="LOCAL-00377" />
       <option name="project" value="LOCAL" />
-      <updated>1751626852725</updated>
+      <updated>1768766874930</updated>
     </task>
-    <task id="LOCAL-00292" summary="test python1">
+    <task id="LOCAL-00378" summary="18.01.2026">
       <option name="closed" value="true" />
-      <created>1751628511516</created>
-      <option name="number" value="00292" />
-      <option name="presentableId" value="LOCAL-00292" />
+      <created>1768769839658</created>
+      <option name="number" value="00378" />
+      <option name="presentableId" value="LOCAL-00378" />
       <option name="project" value="LOCAL" />
-      <updated>1751628511516</updated>
+      <updated>1768769839658</updated>
     </task>
-    <task id="LOCAL-00293" summary="test python1">
+    <task id="LOCAL-00379" summary="18.01.2026">
       <option name="closed" value="true" />
-      <created>1751628730691</created>
-      <option name="number" value="00293" />
-      <option name="presentableId" value="LOCAL-00293" />
+      <created>1768770691146</created>
+      <option name="number" value="00379" />
+      <option name="presentableId" value="LOCAL-00379" />
       <option name="project" value="LOCAL" />
-      <updated>1751628730691</updated>
+      <updated>1768770691146</updated>
     </task>
-    <task id="LOCAL-00294" summary="test python1">
+    <task id="LOCAL-00380" summary="19.01.2026">
       <option name="closed" value="true" />
-      <created>1751628926342</created>
-      <option name="number" value="00294" />
-      <option name="presentableId" value="LOCAL-00294" />
+      <created>1768772614725</created>
+      <option name="number" value="00380" />
+      <option name="presentableId" value="LOCAL-00380" />
       <option name="project" value="LOCAL" />
-      <updated>1751628926342</updated>
+      <updated>1768772614725</updated>
     </task>
-    <task id="LOCAL-00295" summary="test python1">
+    <task id="LOCAL-00381" summary="19.01.2026">
       <option name="closed" value="true" />
-      <created>1751631401445</created>
-      <option name="number" value="00295" />
-      <option name="presentableId" value="LOCAL-00295" />
+      <created>1768772765899</created>
+      <option name="number" value="00381" />
+      <option name="presentableId" value="LOCAL-00381" />
       <option name="project" value="LOCAL" />
-      <updated>1751631401445</updated>
+      <updated>1768772765899</updated>
     </task>
-    <task id="LOCAL-00296" summary="test python1">
+    <task id="LOCAL-00382" summary="19.01.2026">
       <option name="closed" value="true" />
-      <created>1751631445451</created>
-      <option name="number" value="00296" />
-      <option name="presentableId" value="LOCAL-00296" />
+      <created>1768772806679</created>
+      <option name="number" value="00382" />
+      <option name="presentableId" value="LOCAL-00382" />
       <option name="project" value="LOCAL" />
-      <updated>1751631445451</updated>
+      <updated>1768772806679</updated>
     </task>
-    <task id="LOCAL-00297" summary="test python1">
+    <task id="LOCAL-00383" summary="19.01.2026">
       <option name="closed" value="true" />
-      <created>1751634067298</created>
-      <option name="number" value="00297" />
-      <option name="presentableId" value="LOCAL-00297" />
+      <created>1768854051930</created>
+      <option name="number" value="00383" />
+      <option name="presentableId" value="LOCAL-00383" />
       <option name="project" value="LOCAL" />
-      <updated>1751634067298</updated>
+      <updated>1768854051930</updated>
     </task>
-    <task id="LOCAL-00298" summary="test python1">
+    <task id="LOCAL-00384" summary="20.01.2026">
       <option name="closed" value="true" />
-      <created>1751635078412</created>
-      <option name="number" value="00298" />
-      <option name="presentableId" value="LOCAL-00298" />
+      <created>1768856429786</created>
+      <option name="number" value="00384" />
+      <option name="presentableId" value="LOCAL-00384" />
       <option name="project" value="LOCAL" />
-      <updated>1751635078412</updated>
+      <updated>1768856429786</updated>
     </task>
-    <task id="LOCAL-00299" summary="test python1">
+    <task id="LOCAL-00385" summary="20.01.2026">
       <option name="closed" value="true" />
-      <created>1751635132841</created>
-      <option name="number" value="00299" />
-      <option name="presentableId" value="LOCAL-00299" />
+      <created>1768856672689</created>
+      <option name="number" value="00385" />
+      <option name="presentableId" value="LOCAL-00385" />
       <option name="project" value="LOCAL" />
-      <updated>1751635132841</updated>
+      <updated>1768856672689</updated>
     </task>
-    <task id="LOCAL-00300" summary="test python1">
+    <task id="LOCAL-00386" summary="20.01.2026">
       <option name="closed" value="true" />
-      <created>1751638775260</created>
-      <option name="number" value="00300" />
-      <option name="presentableId" value="LOCAL-00300" />
+      <created>1768857055604</created>
+      <option name="number" value="00386" />
+      <option name="presentableId" value="LOCAL-00386" />
       <option name="project" value="LOCAL" />
-      <updated>1751638775260</updated>
+      <updated>1768857055604</updated>
     </task>
-    <task id="LOCAL-00301" summary="test python1">
+    <task id="LOCAL-00387" summary="31.01.2026">
       <option name="closed" value="true" />
-      <created>1751639172978</created>
-      <option name="number" value="00301" />
-      <option name="presentableId" value="LOCAL-00301" />
+      <created>1769890285101</created>
+      <option name="number" value="00387" />
+      <option name="presentableId" value="LOCAL-00387" />
       <option name="project" value="LOCAL" />
-      <updated>1751639172978</updated>
+      <updated>1769890285101</updated>
     </task>
-    <task id="LOCAL-00302" summary="test python1">
+    <task id="LOCAL-00388" summary="31.01.2026">
       <option name="closed" value="true" />
-      <created>1751747104540</created>
-      <option name="number" value="00302" />
-      <option name="presentableId" value="LOCAL-00302" />
+      <created>1769890892038</created>
+      <option name="number" value="00388" />
+      <option name="presentableId" value="LOCAL-00388" />
       <option name="project" value="LOCAL" />
-      <updated>1751747104540</updated>
+      <updated>1769890892038</updated>
     </task>
-    <task id="LOCAL-00303" summary="test python1">
+    <task id="LOCAL-00389" summary="31.01.2026">
       <option name="closed" value="true" />
-      <created>1751899572852</created>
-      <option name="number" value="00303" />
-      <option name="presentableId" value="LOCAL-00303" />
+      <created>1769891707264</created>
+      <option name="number" value="00389" />
+      <option name="presentableId" value="LOCAL-00389" />
       <option name="project" value="LOCAL" />
-      <updated>1751899572852</updated>
+      <updated>1769891707264</updated>
     </task>
-    <task id="LOCAL-00304" summary="test python1">
+    <task id="LOCAL-00390" summary="31.01.2026">
       <option name="closed" value="true" />
-      <created>1751899780489</created>
-      <option name="number" value="00304" />
-      <option name="presentableId" value="LOCAL-00304" />
+      <created>1769891830878</created>
+      <option name="number" value="00390" />
+      <option name="presentableId" value="LOCAL-00390" />
       <option name="project" value="LOCAL" />
-      <updated>1751899780489</updated>
+      <updated>1769891830878</updated>
     </task>
-    <task id="LOCAL-00305" summary="test python1">
+    <task id="LOCAL-00391" summary="31.01.2026">
       <option name="closed" value="true" />
-      <created>1751909057299</created>
-      <option name="number" value="00305" />
-      <option name="presentableId" value="LOCAL-00305" />
+      <created>1769891865706</created>
+      <option name="number" value="00391" />
+      <option name="presentableId" value="LOCAL-00391" />
       <option name="project" value="LOCAL" />
-      <updated>1751909057299</updated>
+      <updated>1769891865706</updated>
     </task>
-    <task id="LOCAL-00306" summary="test python1">
+    <task id="LOCAL-00392" summary="31.01.2026">
       <option name="closed" value="true" />
-      <created>1751909472963</created>
-      <option name="number" value="00306" />
-      <option name="presentableId" value="LOCAL-00306" />
+      <created>1769892458127</created>
+      <option name="number" value="00392" />
+      <option name="presentableId" value="LOCAL-00392" />
       <option name="project" value="LOCAL" />
-      <updated>1751909472963</updated>
+      <updated>1769892458127</updated>
     </task>
-    <task id="LOCAL-00307" summary="test python1">
+    <task id="LOCAL-00393" summary="31.01.2026">
       <option name="closed" value="true" />
-      <created>1751910011576</created>
-      <option name="number" value="00307" />
-      <option name="presentableId" value="LOCAL-00307" />
+      <created>1769893326023</created>
+      <option name="number" value="00393" />
+      <option name="presentableId" value="LOCAL-00393" />
       <option name="project" value="LOCAL" />
-      <updated>1751910011576</updated>
+      <updated>1769893326023</updated>
     </task>
-    <task id="LOCAL-00308" summary="test python1">
+    <task id="LOCAL-00394" summary="01.02.2026">
       <option name="closed" value="true" />
-      <created>1751910466038</created>
-      <option name="number" value="00308" />
-      <option name="presentableId" value="LOCAL-00308" />
+      <created>1769896164069</created>
+      <option name="number" value="00394" />
+      <option name="presentableId" value="LOCAL-00394" />
       <option name="project" value="LOCAL" />
-      <updated>1751910466038</updated>
+      <updated>1769896164069</updated>
     </task>
-    <task id="LOCAL-00309" summary="test python1">
+    <task id="LOCAL-00395" summary="01.02.2026">
       <option name="closed" value="true" />
-      <created>1751910536460</created>
-      <option name="number" value="00309" />
-      <option name="presentableId" value="LOCAL-00309" />
+      <created>1769896522595</created>
+      <option name="number" value="00395" />
+      <option name="presentableId" value="LOCAL-00395" />
       <option name="project" value="LOCAL" />
-      <updated>1751910536461</updated>
+      <updated>1769896522595</updated>
     </task>
-    <task id="LOCAL-00310" summary="test python1">
+    <task id="LOCAL-00396" summary="01.02.2026">
       <option name="closed" value="true" />
-      <created>1751911083123</created>
-      <option name="number" value="00310" />
-      <option name="presentableId" value="LOCAL-00310" />
+      <created>1769896701790</created>
+      <option name="number" value="00396" />
+      <option name="presentableId" value="LOCAL-00396" />
       <option name="project" value="LOCAL" />
-      <updated>1751911083123</updated>
+      <updated>1769896701790</updated>
     </task>
-    <task id="LOCAL-00311" summary="test python1">
+    <task id="LOCAL-00397" summary="01.02.2026">
       <option name="closed" value="true" />
-      <created>1751911362759</created>
-      <option name="number" value="00311" />
-      <option name="presentableId" value="LOCAL-00311" />
+      <created>1769896911800</created>
+      <option name="number" value="00397" />
+      <option name="presentableId" value="LOCAL-00397" />
       <option name="project" value="LOCAL" />
-      <updated>1751911362760</updated>
+      <updated>1769896911800</updated>
     </task>
-    <task id="LOCAL-00312" summary="test python1">
+    <task id="LOCAL-00398" summary="01.02.2026">
       <option name="closed" value="true" />
-      <created>1752501686469</created>
-      <option name="number" value="00312" />
-      <option name="presentableId" value="LOCAL-00312" />
+      <created>1769897219383</created>
+      <option name="number" value="00398" />
+      <option name="presentableId" value="LOCAL-00398" />
       <option name="project" value="LOCAL" />
-      <updated>1752501686469</updated>
+      <updated>1769897219383</updated>
     </task>
-    <task id="LOCAL-00313" summary="test python1">
+    <task id="LOCAL-00399" summary="01.02.2026">
       <option name="closed" value="true" />
-      <created>1752502524165</created>
-      <option name="number" value="00313" />
-      <option name="presentableId" value="LOCAL-00313" />
+      <created>1769945719159</created>
+      <option name="number" value="00399" />
+      <option name="presentableId" value="LOCAL-00399" />
       <option name="project" value="LOCAL" />
-      <updated>1752502524165</updated>
+      <updated>1769945719159</updated>
     </task>
-    <task id="LOCAL-00314" summary="test python1">
+    <task id="LOCAL-00400" summary="01.02.2026">
       <option name="closed" value="true" />
-      <created>1752502690572</created>
-      <option name="number" value="00314" />
-      <option name="presentableId" value="LOCAL-00314" />
+      <created>1769946469345</created>
+      <option name="number" value="00400" />
+      <option name="presentableId" value="LOCAL-00400" />
       <option name="project" value="LOCAL" />
-      <updated>1752502690572</updated>
+      <updated>1769946469345</updated>
     </task>
-    <task id="LOCAL-00315" summary="test python1">
+    <task id="LOCAL-00401" summary="01.02.2026">
       <option name="closed" value="true" />
-      <created>1752503317555</created>
-      <option name="number" value="00315" />
-      <option name="presentableId" value="LOCAL-00315" />
+      <created>1769946567355</created>
+      <option name="number" value="00401" />
+      <option name="presentableId" value="LOCAL-00401" />
       <option name="project" value="LOCAL" />
-      <updated>1752503317555</updated>
+      <updated>1769946567355</updated>
     </task>
-    <task id="LOCAL-00316" summary="test python1">
+    <task id="LOCAL-00402" summary="01.02.2026">
       <option name="closed" value="true" />
-      <created>1752578116384</created>
-      <option name="number" value="00316" />
-      <option name="presentableId" value="LOCAL-00316" />
+      <created>1769948610544</created>
+      <option name="number" value="00402" />
+      <option name="presentableId" value="LOCAL-00402" />
       <option name="project" value="LOCAL" />
-      <updated>1752578116384</updated>
+      <updated>1769948610544</updated>
     </task>
-    <task id="LOCAL-00317" summary="test python1">
+    <task id="LOCAL-00403" summary="01.02.2026">
       <option name="closed" value="true" />
-      <created>1752599708630</created>
-      <option name="number" value="00317" />
-      <option name="presentableId" value="LOCAL-00317" />
+      <created>1769974943978</created>
+      <option name="number" value="00403" />
+      <option name="presentableId" value="LOCAL-00403" />
       <option name="project" value="LOCAL" />
-      <updated>1752599708630</updated>
+      <updated>1769974943978</updated>
     </task>
-    <task id="LOCAL-00318" summary="test python1">
+    <task id="LOCAL-00404" summary="01.02.2026">
       <option name="closed" value="true" />
-      <created>1752600638064</created>
-      <option name="number" value="00318" />
-      <option name="presentableId" value="LOCAL-00318" />
+      <created>1769975887094</created>
+      <option name="number" value="00404" />
+      <option name="presentableId" value="LOCAL-00404" />
       <option name="project" value="LOCAL" />
-      <updated>1752600638064</updated>
+      <updated>1769975887094</updated>
     </task>
-    <task id="LOCAL-00319" summary="test python1">
+    <task id="LOCAL-00405" summary="14.02.2026">
       <option name="closed" value="true" />
-      <created>1752600665042</created>
-      <option name="number" value="00319" />
-      <option name="presentableId" value="LOCAL-00319" />
+      <created>1771101934347</created>
+      <option name="number" value="00405" />
+      <option name="presentableId" value="LOCAL-00405" />
       <option name="project" value="LOCAL" />
-      <updated>1752600665042</updated>
+      <updated>1771101934347</updated>
     </task>
-    <task id="LOCAL-00320" summary="test python1">
+    <task id="LOCAL-00406" summary="14.02.2026">
       <option name="closed" value="true" />
-      <created>1752601135945</created>
-      <option name="number" value="00320" />
-      <option name="presentableId" value="LOCAL-00320" />
+      <created>1771102634801</created>
+      <option name="number" value="00406" />
+      <option name="presentableId" value="LOCAL-00406" />
       <option name="project" value="LOCAL" />
-      <updated>1752601135945</updated>
+      <updated>1771102634801</updated>
     </task>
-    <task id="LOCAL-00321" summary="test python1">
+    <task id="LOCAL-00407" summary="14.02.2026">
       <option name="closed" value="true" />
-      <created>1752601166262</created>
-      <option name="number" value="00321" />
-      <option name="presentableId" value="LOCAL-00321" />
+      <created>1771103480941</created>
+      <option name="number" value="00407" />
+      <option name="presentableId" value="LOCAL-00407" />
       <option name="project" value="LOCAL" />
-      <updated>1752601166262</updated>
+      <updated>1771103480941</updated>
     </task>
-    <task id="LOCAL-00322" summary="test python1">
+    <task id="LOCAL-00408" summary="14.02.2026">
       <option name="closed" value="true" />
-      <created>1752665283852</created>
-      <option name="number" value="00322" />
-      <option name="presentableId" value="LOCAL-00322" />
+      <created>1771103661341</created>
+      <option name="number" value="00408" />
+      <option name="presentableId" value="LOCAL-00408" />
       <option name="project" value="LOCAL" />
-      <updated>1752665283852</updated>
+      <updated>1771103661341</updated>
     </task>
-    <task id="LOCAL-00323" summary="test python1">
+    <task id="LOCAL-00409" summary="15.02.2026">
       <option name="closed" value="true" />
-      <created>1752668372219</created>
-      <option name="number" value="00323" />
-      <option name="presentableId" value="LOCAL-00323" />
+      <created>1771103871377</created>
+      <option name="number" value="00409" />
+      <option name="presentableId" value="LOCAL-00409" />
       <option name="project" value="LOCAL" />
-      <updated>1752668372219</updated>
+      <updated>1771103871377</updated>
     </task>
-    <task id="LOCAL-00324" summary="test python1">
+    <task id="LOCAL-00410" summary="15.02.2026">
       <option name="closed" value="true" />
-      <created>1752668611100</created>
-      <option name="number" value="00324" />
-      <option name="presentableId" value="LOCAL-00324" />
+      <created>1771145532043</created>
+      <option name="number" value="00410" />
+      <option name="presentableId" value="LOCAL-00410" />
       <option name="project" value="LOCAL" />
-      <updated>1752668611100</updated>
+      <updated>1771145532043</updated>
     </task>
-    <task id="LOCAL-00325" summary="test python1">
+    <task id="LOCAL-00411" summary="15.02.2026">
       <option name="closed" value="true" />
-      <created>1752669116134</created>
-      <option name="number" value="00325" />
-      <option name="presentableId" value="LOCAL-00325" />
+      <created>1771148189108</created>
+      <option name="number" value="00411" />
+      <option name="presentableId" value="LOCAL-00411" />
       <option name="project" value="LOCAL" />
-      <updated>1752669116134</updated>
+      <updated>1771148189108</updated>
     </task>
-    <task id="LOCAL-00326" summary="test python1">
+    <task id="LOCAL-00412" summary="15.02.2026">
       <option name="closed" value="true" />
-      <created>1754927127012</created>
-      <option name="number" value="00326" />
-      <option name="presentableId" value="LOCAL-00326" />
+      <created>1771150126888</created>
+      <option name="number" value="00412" />
+      <option name="presentableId" value="LOCAL-00412" />
       <option name="project" value="LOCAL" />
-      <updated>1754927127012</updated>
+      <updated>1771150126888</updated>
     </task>
-    <task id="LOCAL-00327" summary="test python1">
+    <task id="LOCAL-00413" summary="15.02.2026">
       <option name="closed" value="true" />
-      <created>1755110846944</created>
-      <option name="number" value="00327" />
-      <option name="presentableId" value="LOCAL-00327" />
+      <created>1771159701935</created>
+      <option name="number" value="00413" />
+      <option name="presentableId" value="LOCAL-00413" />
       <option name="project" value="LOCAL" />
-      <updated>1755110846944</updated>
+      <updated>1771159701935</updated>
     </task>
-    <task id="LOCAL-00328" summary="test python1">
+    <task id="LOCAL-00414" summary="15.02.2026">
       <option name="closed" value="true" />
-      <created>1755111087678</created>
-      <option name="number" value="00328" />
-      <option name="presentableId" value="LOCAL-00328" />
+      <created>1771160463478</created>
+      <option name="number" value="00414" />
+      <option name="presentableId" value="LOCAL-00414" />
       <option name="project" value="LOCAL" />
-      <updated>1755111087678</updated>
+      <updated>1771160463478</updated>
     </task>
-    <task id="LOCAL-00329" summary="test python1">
+    <task id="LOCAL-00415" summary="15.02.2026">
       <option name="closed" value="true" />
-      <created>1755111172957</created>
-      <option name="number" value="00329" />
-      <option name="presentableId" value="LOCAL-00329" />
+      <created>1771161800364</created>
+      <option name="number" value="00415" />
+      <option name="presentableId" value="LOCAL-00415" />
       <option name="project" value="LOCAL" />
-      <updated>1755111172957</updated>
+      <updated>1771161800364</updated>
     </task>
-    <task id="LOCAL-00330" summary="test python1">
+    <task id="LOCAL-00416" summary="15.02.2026">
       <option name="closed" value="true" />
-      <created>1755111615354</created>
-      <option name="number" value="00330" />
-      <option name="presentableId" value="LOCAL-00330" />
+      <created>1771163179437</created>
+      <option name="number" value="00416" />
+      <option name="presentableId" value="LOCAL-00416" />
       <option name="project" value="LOCAL" />
-      <updated>1755111615354</updated>
+      <updated>1771163179437</updated>
     </task>
-    <task id="LOCAL-00331" summary="test python1">
+    <task id="LOCAL-00417" summary="15.02.2026">
       <option name="closed" value="true" />
-      <created>1755112048275</created>
-      <option name="number" value="00331" />
-      <option name="presentableId" value="LOCAL-00331" />
+      <created>1771165127017</created>
+      <option name="number" value="00417" />
+      <option name="presentableId" value="LOCAL-00417" />
       <option name="project" value="LOCAL" />
-      <updated>1755112048275</updated>
+      <updated>1771165127017</updated>
     </task>
-    <task id="LOCAL-00332" summary="test python1">
+    <task id="LOCAL-00418" summary="15.02.2026">
       <option name="closed" value="true" />
-      <created>1755112130251</created>
-      <option name="number" value="00332" />
-      <option name="presentableId" value="LOCAL-00332" />
+      <created>1771165253069</created>
+      <option name="number" value="00418" />
+      <option name="presentableId" value="LOCAL-00418" />
       <option name="project" value="LOCAL" />
-      <updated>1755112130251</updated>
+      <updated>1771165253069</updated>
     </task>
-    <task id="LOCAL-00333" summary="test python1">
+    <task id="LOCAL-00419" summary="15.02.2026">
       <option name="closed" value="true" />
-      <created>1757594336542</created>
-      <option name="number" value="00333" />
-      <option name="presentableId" value="LOCAL-00333" />
+      <created>1771166281700</created>
+      <option name="number" value="00419" />
+      <option name="presentableId" value="LOCAL-00419" />
       <option name="project" value="LOCAL" />
-      <updated>1757594336543</updated>
+      <updated>1771166281700</updated>
     </task>
-    <task id="LOCAL-00334" summary="test python1">
+    <task id="LOCAL-00420" summary="15.02.2026">
       <option name="closed" value="true" />
-      <created>1764008469820</created>
-      <option name="number" value="00334" />
-      <option name="presentableId" value="LOCAL-00334" />
+      <created>1771167589365</created>
+      <option name="number" value="00420" />
+      <option name="presentableId" value="LOCAL-00420" />
       <option name="project" value="LOCAL" />
-      <updated>1764008469820</updated>
+      <updated>1771167589365</updated>
     </task>
-    <task id="LOCAL-00335" summary="test python1">
+    <task id="LOCAL-00421" summary="15.02.2026">
       <option name="closed" value="true" />
-      <created>1764018894010</created>
-      <option name="number" value="00335" />
-      <option name="presentableId" value="LOCAL-00335" />
+      <created>1771167657303</created>
+      <option name="number" value="00421" />
+      <option name="presentableId" value="LOCAL-00421" />
       <option name="project" value="LOCAL" />
-      <updated>1764018894010</updated>
+      <updated>1771167657303</updated>
     </task>
-    <option name="localTasksCounter" value="336" />
+    <option name="localTasksCounter" value="422" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -658,18 +656,31 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test python" />
     <MESSAGE value="test python1" />
-    <option name="LAST_COMMIT_MESSAGE" value="test python1" />
+    <MESSAGE value="15.01.2026" />
+    <MESSAGE value="16.01.2026" />
+    <MESSAGE value="17.01.2026" />
+    <MESSAGE value="18.01.2026" />
+    <MESSAGE value="19.01.2026" />
+    <MESSAGE value="20.01.2026" />
+    <MESSAGE value="31.01.2026" />
+    <MESSAGE value="01.02.2026" />
+    <MESSAGE value="14.02.2026" />
+    <MESSAGE value="15.02.2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="15.02.2026" />
   </component>
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
     <settings-migrated>true</settings-migrated>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Account_py$Introduction_to_python_chernyshev.coverage" NAME="Introduction_to_python_chernyshev Coverage Results" MODIFIED="1768506279382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Account_py$Introduction_to_python_chernyshev.coverage" NAME="Introduction_to_python_chernyshev Coverage Results" MODIFIED="1771167225500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Account_py$duplacate.coverage" NAME="duplacate Coverage Results" MODIFIED="1764014136754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Account_py$monster5.coverage" NAME="monster5 Coverage Results" MODIFIED="1768500206052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Account_py$monster5.coverage" NAME="monster5 Coverage Results" MODIFIED="1771093430885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Account_py$programming_dictionary.coverage" NAME="programming_dictionary Coverage Results" MODIFIED="1764015839475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Account_py$dictionaries2.coverage" NAME="dictionaries2 Coverage Results" MODIFIED="1764010948312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Account_py$pytest_in_test_main1_py.coverage" NAME="pytest in test_main1.py Coverage Results" MODIFIED="1771172434346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Account_py$.coverage" NAME=" Coverage Results" MODIFIED="1771172112842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Account_py$main.coverage" NAME="main Coverage Results" MODIFIED="1768565144516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Account_py$dictionaries1.coverage" NAME="dictionaries1 Coverage Results" MODIFIED="1764013678459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
