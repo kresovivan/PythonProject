@@ -29,6 +29,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -334,7 +335,7 @@
       <workItem from="1776246679096" duration="2000" />
       <workItem from="1776281634827" duration="629000" />
       <workItem from="1783362331020" duration="348000" />
-      <workItem from="1786731665257" duration="1427000" />
+      <workItem from="1786731665257" duration="1869000" />
     </task>
     <task id="LOCAL-00383" summary="19.01.2026">
       <option name="closed" value="true" />
