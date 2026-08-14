@@ -252,8 +252,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Account" />
       <item itemvalue="Python.tttttt" />
+      <item itemvalue="Python.Account" />
     </list>
     <recent_temporary>
       <list>
@@ -334,15 +334,7 @@
       <workItem from="1776246679096" duration="2000" />
       <workItem from="1776281634827" duration="629000" />
       <workItem from="1783362331020" duration="348000" />
-      <workItem from="1786731665257" duration="551000" />
-    </task>
-    <task id="LOCAL-00381" summary="19.01.2026">
-      <option name="closed" value="true" />
-      <created>1768772765899</created>
-      <option name="number" value="00381" />
-      <option name="presentableId" value="LOCAL-00381" />
-      <option name="project" value="LOCAL" />
-      <updated>1768772765899</updated>
+      <workItem from="1786731665257" duration="1170000" />
     </task>
     <task id="LOCAL-00382" summary="19.01.2026">
       <option name="closed" value="true" />
@@ -728,7 +720,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776282186426</updated>
     </task>
-    <option name="localTasksCounter" value="430" />
+    <task id="LOCAL-00430" summary="15.04.2026">
+      <option name="closed" value="true" />
+      <created>1786732251679</created>
+      <option name="number" value="00430" />
+      <option name="presentableId" value="LOCAL-00430" />
+      <option name="project" value="LOCAL" />
+      <updated>1786732251680</updated>
+    </task>
+    <option name="localTasksCounter" value="431" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
